@@ -12,3 +12,5 @@
 
 ## Run Database
     `npx json-server --watch data/db.json --port 8000`
+
+### Project Taught by Net Ninja
